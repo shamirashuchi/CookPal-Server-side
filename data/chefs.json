@@ -1,0 +1,173 @@
+{
+    "chefs": [
+      {
+        "name": "Bobby Flay",
+        "_id":1,
+        "picture": "https://images.pexels.com/photos/7869562/pexels-photo-7869562.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience_years": 30,
+        "num_recipes": 50,
+        "bio": "Bobby Flay is an American celebrity chef, restaurateur, and television personality. He has hosted several cooking shows on Food Network, including 'Grill It! with Bobby Flay', 'Throwdown! with Bobby Flay', and 'Beat Bobby Flay'. Flay is known for his expertise in grilling and southwestern cuisine.",
+        "recipes": [
+          {
+            "name": "Grilled Ribeye Steak",
+            "ingredients": ["Ribeye steak", "Kosher salt", "Black pepper", "Olive oil", "Butter"],
+            "cooking_method": "Grilling",
+            "rating": 4.5
+          },
+          {
+            "name": "BBQ Chicken Wings",
+            "ingredients": ["Chicken wings", "BBQ sauce", "Garlic powder", "Onion powder", "Paprika"],
+            "cooking_method": "Baking",
+            "rating": 4.2
+          },
+          {
+            "name": "Shrimp and Grits",
+            "ingredients": ["Shrimp", "Grits", "Butter", "Cheddar cheese", "Heavy cream"],
+            "cooking_method": "Sauteing",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "name": "Ina Garten",
+        "_id":2,
+        "picture": "https://images.pexels.com/photos/5490235/pexels-photo-5490235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience_years": 25,
+        "num_recipes": 40,
+        "bio": "Ina Garten is an American author and host of the Food Network program 'Barefoot Contessa'. She is also a former staff member of the White House Office of Management and Budget. Garten is known for her simple and elegant approach to home cooking, and many of her recipes are featured in her cookbooks.",
+        "recipes": [
+          {
+            "name": "Roast Chicken",
+            "ingredients": ["Whole chicken", "Lemon", "Garlic", "Thyme", "Butter"],
+            "cooking_method": "Roasting",
+            "rating": 4.7
+          },
+          {
+            "name": "Mac and Cheese",
+            "ingredients": ["Elbow macaroni", "Cheddar cheese", "Milk", "Butter", "Flour"],
+            "cooking_method": "Baking",
+            "rating": 4.5
+          },
+          {
+            "name": "Apple Pie",
+            "ingredients": ["Apples", "Sugar", "Cinnamon", "Flour", "Butter"],
+            "cooking_method": "Baking",
+            "rating": 4.9
+          }
+        ]
+      },
+      {
+        "name": "Gordon Ramsay",
+        "_id":3,
+        "picture": "https://images.pexels.com/photos/4890259/pexels-photo-4890259.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "experience_years": 35,
+        "num_recipes": 60,
+        "bio": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has a total of 16 Michelin stars across his restaurants worldwide, making him one of the most successful chefs in the industry. Ramsay has also hosted several popular cooking shows, including 'Hell's Kitchen,' 'MasterChef,' and 'Kitchen Nightmares.'",
+        "recipes": [
+          {
+            "name": "Beef Wellington",
+            "ingredients": ["Beef tenderloin", "Puff pastry", "Mushrooms", "Prosciutto", "Egg wash"],
+            "cooking_method": "Baking",
+            "rating": 4.8
+          },
+          {
+            "name": "Burger and Fries",
+            "ingredients": ["Ground beef", "Burger buns", "Potatoes", "Salt", "Pepper"],
+            "cooking_method": "Grilling",
+            "rating": 4.6
+          },
+          {
+            "name": "Shepherd's Pie",
+            "ingredients": ["Ground lamb", "Potatoes", "Carrots", "Peas", "Beef stock"],
+            "cooking_method": "Baking",
+            "rating": 5
+          }
+        ]
+      },
+          {
+            "name": "Alice Waters",
+            "_id":4,
+            "picture": "https://images.pexels.com/photos/5155733/pexels-photo-5155733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "experience_years": 50,
+            "num_recipes": 30,
+            "bio": "Alice Waters is a renowned chef, author, and food activist. She is the founder of the legendary restaurant Chez Panisse in Berkeley, California, which has been serving locally sourced, organic food since 1971. Waters is also the author of numerous cookbooks and has been a vocal advocate for sustainable food practices throughout her career. She has been recognized with numerous awards and honors for her contributions to the culinary world and sustainable agriculture.",
+            "recipes": [
+              {
+                "name": "Tomato Salad",
+                "ingredients": ["Tomatoes", "Basil", "Olive oil", "Salt", "Pepper"],
+                "cooking_method": "Mixing",
+                "rating": 4.3
+              },
+              {
+                "name": "Pesto Pasta",
+                "ingredients": ["Pasta", "Basil", "Pine nuts", "Garlic", "Parmesan cheese"],
+                "cooking_method": "Boiling",
+                "rating": 4.7
+              },
+              {
+                "name": "Grilled Fish",
+                "ingredients": ["Fish fillets", "Lemon", "Olive oil", "Salt", "Pepper"],
+                "cooking_method": "Grilling",
+                "rating": 4.5
+              }
+            ]
+          },
+          {
+            "name": "Emeril Lagasse",
+            "_id":5,
+            "picture": "https://images.pexels.com/photos/428328/pexels-photo-428328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "experience_years": 35,
+            "num_recipes": 50,
+            "bio": "Emeril Lagasse is an American celebrity chef, restaurateur, and television personality. He is the host of the television shows Emeril Live and Essence of Emeril, and has appeared on several other cooking shows. Lagasse is known for his expertise in Creole and Cajun cuisine, and has written numerous cookbooks. He is the owner of several restaurants, including Emeril's New Orleans, Emeril's Delmonico, and Emeril's Chop House. Lagasse has won several James Beard Foundation Awards, and is considered one of the most influential chefs in the United States.",
+            "recipes": [
+              {
+                "name": "Jambalaya",
+                "ingredients": ["Andouille sausage", "Chicken", "Rice", "Onions", "Bell peppers"],
+                "cooking_method": "Simmering",
+                "rating": 4.6
+              },
+              {
+                "name": "Shrimp Scampi",
+                "ingredients": ["Shrimp", "Garlic", "Lemon", "Butter", "White wine"],
+                "cooking_method": "Sauteing",
+                "rating": 4.8
+              },
+              {
+                "name": "Bananas Foster",
+                "ingredients": ["Bananas", "Butter", "Brown sugar", "Cinnamon", "Dark rum"],
+                "cooking_method": "Flambéing",
+                "rating": 4.9
+              }
+            ]
+          },
+          {
+            "name": "Ingrid Hoffmann",
+            "_id":6,
+            "picture": "https://images.pexels.com/photos/5543385/pexels-photo-5543385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "experience_years": 20,
+            "num_recipes": 60,
+            "bio": "Ingrid Hoffmann is a Colombian-American chef and television personality. She is the host of the Food Network series Simply Delicioso and Delicioso on Galavision/Univision, and is also the author of several cookbooks. Hoffmann's cooking style combines Latin flavors with American cuisine, and she is known for her simple, easy-to-follow recipes that are perfect for everyday cooking.",
+            "recipes": [
+              {
+                "name": "Chicken Enchiladas",
+                "ingredients": ["Chicken", "Tortillas", "Tomato sauce", "Sour cream", "Cheddar cheese"],
+                "cooking_method": "Baking",
+                "rating": 4.5
+              },
+              {
+                "name": "Arroz con Pollo",
+                "ingredients": ["Chicken", "Rice", "Tomatoes", "Peas", "Saffron"],
+                "cooking_method": "Simmering",
+                "rating": 4.2
+              },
+              {
+                "name": "Tres Leches Cake",
+                "ingredients": ["Flour", "Sugar", "Eggs", "Milk", "Vanilla extract"],
+                "cooking_method": "Baking",
+                "rating": 4.7
+              }
+            ]
+          }
+    ]
+  }
+  
