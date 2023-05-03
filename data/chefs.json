@@ -6,6 +6,7 @@
         "picture": "https://images.pexels.com/photos/7869562/pexels-photo-7869562.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "experience_years": 30,
         "num_recipes": 50,
+        "Likes":300,
         "bio": "Bobby Flay is an American celebrity chef, restaurateur, and television personality. He has hosted several cooking shows on Food Network, including 'Grill It! with Bobby Flay', 'Throwdown! with Bobby Flay', and 'Beat Bobby Flay'. Flay is known for his expertise in grilling and southwestern cuisine.",
         "recipes": [
           {
@@ -34,6 +35,7 @@
         "picture": "https://images.pexels.com/photos/5490235/pexels-photo-5490235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "experience_years": 25,
         "num_recipes": 40,
+        "Likes":200,
         "bio": "Ina Garten is an American author and host of the Food Network program 'Barefoot Contessa'. She is also a former staff member of the White House Office of Management and Budget. Garten is known for her simple and elegant approach to home cooking, and many of her recipes are featured in her cookbooks.",
         "recipes": [
           {
@@ -62,6 +64,7 @@
         "picture": "https://images.pexels.com/photos/4890259/pexels-photo-4890259.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "experience_years": 35,
         "num_recipes": 60,
+        "Likes":400,
         "bio": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has a total of 16 Michelin stars across his restaurants worldwide, making him one of the most successful chefs in the industry. Ramsay has also hosted several popular cooking shows, including 'Hell's Kitchen,' 'MasterChef,' and 'Kitchen Nightmares.'",
         "recipes": [
           {
@@ -90,6 +93,7 @@
             "picture": "https://images.pexels.com/photos/5155733/pexels-photo-5155733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "experience_years": 50,
             "num_recipes": 30,
+            "Likes":200,
             "bio": "Alice Waters is a renowned chef, author, and food activist. She is the founder of the legendary restaurant Chez Panisse in Berkeley, California, which has been serving locally sourced, organic food since 1971. Waters is also the author of numerous cookbooks and has been a vocal advocate for sustainable food practices throughout her career. She has been recognized with numerous awards and honors for her contributions to the culinary world and sustainable agriculture.",
             "recipes": [
               {
@@ -118,6 +122,7 @@
             "picture": "https://images.pexels.com/photos/428328/pexels-photo-428328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "experience_years": 35,
             "num_recipes": 50,
+            "Likes":300,
             "bio": "Emeril Lagasse is an American celebrity chef, restaurateur, and television personality. He is the host of the television shows Emeril Live and Essence of Emeril, and has appeared on several other cooking shows. Lagasse is known for his expertise in Creole and Cajun cuisine, and has written numerous cookbooks. He is the owner of several restaurants, including Emeril's New Orleans, Emeril's Delmonico, and Emeril's Chop House. Lagasse has won several James Beard Foundation Awards, and is considered one of the most influential chefs in the United States.",
             "recipes": [
               {
@@ -146,6 +151,7 @@
             "picture": "https://images.pexels.com/photos/5543385/pexels-photo-5543385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "experience_years": 20,
             "num_recipes": 60,
+            "Likes":400,
             "bio": "Ingrid Hoffmann is a Colombian-American chef and television personality. She is the host of the Food Network series Simply Delicioso and Delicioso on Galavision/Univision, and is also the author of several cookbooks. Hoffmann's cooking style combines Latin flavors with American cuisine, and she is known for her simple, easy-to-follow recipes that are perfect for everyday cooking.",
             "recipes": [
               {
